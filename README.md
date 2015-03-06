@@ -21,6 +21,6 @@ Cidade: Goiânia-GO
 * Observação: O arquivo deve ficar salvo no seguinte caminho: C:\BANCODADOS.fdb
 
 3- Arquivo Executável: O arquivo está disponível em:
-http://goo.gl/tPjjUV
+http://goo.gl/RQaUQT
 
 Dúvidas? Fale comigo! viniciusldemelo@gmail.com, www.facebook.com/vinicius.lopesdemelo, +556283156636 (WhatsApp) e viniciuslopesmelo (Skype).
