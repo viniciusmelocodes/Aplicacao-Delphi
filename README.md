@@ -18,7 +18,7 @@ Cidade: Goiânia-GO
 * SGBD Firebird: Para executar esse projeto, é necessário fazer o download e instalação do SGBD Firebird que está disponível em: http://goo.gl/PZRZHF
 
 * Arquivo de banco de dados: O arquivo está disponível em: http://goo.gl/sdDg25
-* Observação: O arquivo deve ficar salvo no seguinte caminho: D:\BANCODADOS.fdb
+* Observação: O arquivo deve ficar salvo no seguinte caminho: C:\BANCODADOS.fdb
 
 3- Arquivo Executável: O arquivo está disponível em:
 http://goo.gl/tPjjUV
