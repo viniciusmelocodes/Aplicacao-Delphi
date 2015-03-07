@@ -1,3 +1,7 @@
+Nome do desenvolvedor: Vinícius Lopes de Melo
+
+Cidade: Goiânia-GO
+
 Nome do projeto desenvolvido: AplicacaoDelphi
 
 IDE: Delphi versão XE (2011)
@@ -5,10 +9,6 @@ IDE: Delphi versão XE (2011)
 Linguagem de Programação: Object Pascal
 
 Data e hora da criação: 17/06/2014 01:17:29
-
-Nome do desenvolvedor: Vinícius Lopes de Melo
-
-Cidade: Goiânia-GO
 
 1- Objetivos: 
   - Mostrar um exemplo de aplicação em Delphi que grava e exclue dados. 
