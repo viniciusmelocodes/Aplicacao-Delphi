@@ -1,4 +1,4 @@
-Nome do projeto desenvolvido: Aplicativo
+Nome do projeto desenvolvido: AplicacaoDelphi
 
 IDE: Delphi versão XE (2011)
 
